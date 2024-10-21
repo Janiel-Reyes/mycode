@@ -32,6 +32,3 @@ coverage/
 
 # Ignore REPL history, which stores command history from Node.js sessions.
 .node_repl_history
-echo "*.log" >> ~/mycode/.gitignore
-echo "*.key" >> ~/mycode/.gitignore
-echo "id_rsa*" >> ~/mycode/.gitignore
